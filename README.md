@@ -1,2 +1,2 @@
 # deploytest
-fictional uni
+fictional university
