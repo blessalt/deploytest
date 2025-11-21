@@ -1,2 +1,2 @@
 # deploytest
-fictional university
+fi un
